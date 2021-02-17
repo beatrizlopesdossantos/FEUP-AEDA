@@ -1,0 +1,25 @@
+var annotated_dup =
+[
+    [ "The theme for our project:", "index.html#autotoc_md0", null ],
+    [ "Our Group - (T6_G02):", "index.html#autotoc_md1", null ],
+    [ "Bath", "class_bath.html", "class_bath" ],
+    [ "ClientDoesNotExist", "class_client_does_not_exist.html", "class_client_does_not_exist" ],
+    [ "Clients", "class_clients.html", "class_clients" ],
+    [ "CutFur", "class_cut_fur.html", "class_cut_fur" ],
+    [ "Date", "class_date.html", "class_date" ],
+    [ "DateNotValid", "class_date_not_valid.html", "class_date_not_valid" ],
+    [ "Dog", "struct_dog.html", "struct_dog" ],
+    [ "EmployeeDoesNotExist", "class_employee_does_not_exist.html", "class_employee_does_not_exist" ],
+    [ "Employees", "class_employees.html", "class_employees" ],
+    [ "EmptyVector", "class_empty_vector.html", "class_empty_vector" ],
+    [ "FileNotFound", "class_file_not_found.html", "class_file_not_found" ],
+    [ "InvalidInput", "class_invalid_input.html", "class_invalid_input" ],
+    [ "InvalidServiceType", "class_invalid_service_type.html", "class_invalid_service_type" ],
+    [ "NoAvailableEmployee", "class_no_available_employee.html", "class_no_available_employee" ],
+    [ "ObedienceClass", "class_obedience_class.html", "class_obedience_class" ],
+    [ "ServiceDoesNotExist", "class_service_does_not_exist.html", "class_service_does_not_exist" ],
+    [ "Services", "class_services.html", "class_services" ],
+    [ "Tasks", "class_tasks.html", "class_tasks" ],
+    [ "Veterinary", "class_veterinary.html", "class_veterinary" ],
+    [ "Walk", "class_walk.html", "class_walk" ]
+];

@@ -1,0 +1,43 @@
+Pedro Campos
+campos_p
+Free-time
+1
+16 12 2 2021
+
+Matilde Barra
+mbarra29
+Professional
+4
+12 29 1 2021
+17 5 2 2021
+18 5 2 2021
+19 5 2 2021
+
+Maria Helena
+mleninha95
+Free-time
+2
+16 14 1 2021
+18 6 3 2021
+
+Rui Pinto
+rpinto19
+Free-time
+0
+
+Beatriz Santos
+beatrizs
+Professional
+2
+10 7 3 2021
+15 18 5 2021
+
+Ricardo Ferreira
+ricardo01
+Professional
+3
+8 2 2 2021
+15 18 5 2021
+16 18 5 2021
+
+End

@@ -1,0 +1,13 @@
+Profit 1.05
+ExclusiveCost 2
+NotExclusiveLimit 4
+CostPerPoint 15
+DiscountPoints 20
+ProfessionalCost 15
+PartTimeCost 10
+VeterinaryCost 100
+BathCost 30
+CutFurCost 40
+WalkCost 5
+ObedienceClassCost 60
+End

@@ -1,0 +1,46 @@
+Dakota
+GoldenRetriever
+28 9 2019
+jsil_99@up.pt
+
+Alpha
+GermanShepherd
+6 7 2016
+talmeida02@up.pt
+
+Lorde
+Labrador
+15 10 2015
+aRocha@up.pt
+
+Kiki
+Chihuahua
+28 10 2019
+ferr_1980@up.pt
+
+Luna
+BorderCollie
+30 4 2015
+martim78@up.pt
+
+Atlas
+Husky
+17 12 2018
+mota_04@up.pt
+
+Ash
+Beagle
+4 5 2017
+jsil_99@up.pt
+
+Blake
+Bulldog
+9 7 2014
+talmeida02@up.pt
+
+Daisy
+Labrador
+24 6 2020
+jojoFaria@up.pt
+
+End
